@@ -18,7 +18,7 @@ export default {
   },
   landing: {
     img: {
-      url: 'assets/pp.webp',
+      url: 'assets/profile.jpg',
       alt: 'Niranjana',
     },
     text: ['Hi!', "I'm", 'Niranjana.', "I'm a"],
